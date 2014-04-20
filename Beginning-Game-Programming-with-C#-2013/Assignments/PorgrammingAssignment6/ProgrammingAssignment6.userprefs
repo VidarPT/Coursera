@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game1.cs">
+    <Files>
+      <File FileName="Game1.cs" Line="85" Column="4" />
+      <File FileName="Card.cs" Line="15" Column="22" />
+      <File FileName="Deck.cs" Line="1" Column="1" />
+      <File FileName="WarHand.cs" Line="12" Column="34" />
+      <File FileName="WarBattlePile.cs" Line="23" Column="48" />
+      <File FileName="MenuButton.cs" Line="11" Column="33" />
+      <File FileName="WinnerMessage.cs" Line="20" Column="24" />
+      <File FileName="GameState.cs" Line="1" Column="1" />
+      <File FileName="Player.cs" Line="9" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+/home/daniel/Documents/MonoProjects/Assignments/ProgrammingAssignment3/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/daniel/Documents/MonoProjects/Assignments/ProgrammingAssignment3/bin/Debug/ProgrammingAssignment3.exe.mdb
+/home/daniel/Documents/MonoProjects/Assignments/ProgrammingAssignment3/bin/Debug/ProgrammingAssignment3.exe
+/home/daniel/Documents/MonoProjects/Assignments/ProgrammingAssignment3/obj/x86/Debug/ProgrammingAssignment3.exe
+/home/daniel/Documents/MonoProjects/Assignments/ProgrammingAssignment3/obj/x86/Debug/ProgrammingAssignment3.exe.mdb

@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QuitButton.cs">
+    <Files>
+      <File FileName="Game1.cs" Line="179" Column="1" />
+      <File FileName="BoardSquare.cs" Line="76" Column="23" />
+      <File FileName="Board.cs" Line="77" Column="44" />
+      <File FileName="QuitButton.cs" Line="81" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

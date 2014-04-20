@@ -1,0 +1,5 @@
+/home/daniel/Documents/MonoProjects/Week 2/Lab4/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/daniel/Documents/MonoProjects/Week 2/Lab4/bin/Debug/Lab4.exe.mdb
+/home/daniel/Documents/MonoProjects/Week 2/Lab4/bin/Debug/Lab4.exe
+/home/daniel/Documents/MonoProjects/Week 2/Lab4/obj/x86/Debug/Lab4.exe
+/home/daniel/Documents/MonoProjects/Week 2/Lab4/obj/x86/Debug/Lab4.exe.mdb
